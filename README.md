@@ -23,3 +23,4 @@
   https://rigcount.bakerhughes.com/
 
 ```
+##### We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Amazon.com, Inc., or any of its subsidiaries or its affiliates.
