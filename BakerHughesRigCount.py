@@ -22,7 +22,7 @@ def fetch_and_process_rig_data(url ,sheet_name):
     return rig_df
 
 if __name__ == '__main__':
-    url = 'https://rigcount.bakerhughes.com/static-files/e916080f-555e-4e18-9969-46f62fbef9d6'
+    url = 'https://rigcount.bakerhughes.com/static-files/somenumbers'
     sheet_name = 'US Oil & Gas Split'
 
     rig_df = fetch_and_process_rig_data(url, sheet_name)
