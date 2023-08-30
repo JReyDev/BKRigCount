@@ -26,7 +26,7 @@ def fetch_and_process_rig_data(url, save_path, sheet_name):
 
 if __name__ == '__main__':
     url = 'https://rigcount.bakerhughes.com/static-files/e916080f-555e-4e18-9969-46f62fbef9d6'
-    save_path = 'F:/Downloads/north_america_rotary_rig_count_jan_2000_-_current.xlsb'
+    save_path = 'download/file.xlsb'
     sheet_name = 'US Oil & Gas Split'
 
     rig_df = fetch_and_process_rig_data(url, save_path, sheet_name)
