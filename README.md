@@ -15,7 +15,7 @@
   xlrd
   pandas
 ```
-#### resources:
+#### Resources:
 
 ```
   https://www.python-excel.org/
