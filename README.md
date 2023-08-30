@@ -1,6 +1,6 @@
 # Baker Hughes Rig Count
 
-## ** For Informational Purposes Only. **
+### ** For Informational Purposes Only. Not affiliated with Baker Hughes. **
 #### This is just a simple script that fetches the rig count data provided by Baker Hughes.
 
 
