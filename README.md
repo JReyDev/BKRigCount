@@ -12,3 +12,10 @@
   xlrd
   pandas
 ```
+### resources:
+
+```
+### https://www.python-excel.org/
+### https://rigcount.bakerhughes.com/
+
+```
