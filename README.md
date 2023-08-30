@@ -19,8 +19,6 @@
 
 ```
   https://www.python-excel.org/
-
   https://rigcount.bakerhughes.com/
-
 ```
 ##### I am not affiliated, associated, authorized, endorsed by, or in any way officially connected with Baker Hughes Company, or any of its subsidiaries or its affiliates.
